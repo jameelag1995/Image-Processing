@@ -1,0 +1,6 @@
+#!/bin/bash
+PS1="bash "
+. /etc/bash.bashrc
+module load librosa
+./test1.py "$@"
+

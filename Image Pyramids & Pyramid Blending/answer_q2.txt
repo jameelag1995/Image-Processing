@@ -1,0 +1,2 @@
+the higher the filter size the more smoother the result image gets because the larger the filter the more blurred the
+img in different levels so the blending becomes more smooth between different levels.

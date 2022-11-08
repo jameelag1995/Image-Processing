@@ -1,0 +1,3 @@
+the audio file from the resize vocoder was a bit louder and more clean, also the sound is more continuous
+where on the other hand we can hear a bit of a drop in the volume from the resize spectrogram
+and it doesnt sound well.

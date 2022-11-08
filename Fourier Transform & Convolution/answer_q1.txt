@@ -1,0 +1,3 @@
+the difference is in the high frequencies and since we clipped some of the values the signal was smaller
+and these values were the ones which indicate high frequency it also made it sound a bit slower.
+

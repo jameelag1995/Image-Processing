@@ -1,0 +1,4 @@
+because the derivatives are different the fourier transform gives us the derivative using
+the formal derivative formula which is more accurate, where convolution with the given vector
+gives us an approximation to the derivative this causes different magnitude values which
+in turn affects the result img if we look close around the edges.

@@ -1,0 +1,2 @@
+multiplying each level with different values means that each level has different weight on the result image
+which means we have more control over the frequencies of each level so we give important details larger weight.
